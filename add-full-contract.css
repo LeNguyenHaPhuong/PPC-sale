@@ -1,0 +1,343 @@
+.add-full-contract-child {
+  position: absolute;
+  top: 198px;
+  left: 52px;
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1815px;
+  height: 1647px;
+}
+.add-full-contract-inner,
+.add-full-contract-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dimgray);
+  width: 1920px;
+  height: 135px;
+}
+.add-full-contract-inner {
+  top: 1893px;
+  background-color: var(--color-gray-200);
+  height: 334px;
+}
+.manage-property3,
+.ppc3 {
+  position: absolute;
+  top: 0;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 135px;
+}
+.ppc3 {
+  left: 0;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-holtwood-one-sc);
+  color: var(--color-orange-300);
+  width: 302px;
+}
+.manage-property3 {
+  left: 383px;
+  font-size: var(--font-size-21xl);
+  width: 376px;
+}
+.manage3 {
+  margin: 0;
+}
+.manage-full-contract-txt-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.admin3,
+.manage-full-contract3 {
+  position: absolute;
+  top: 0;
+  left: 796px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-darkorange);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 376px;
+  height: 135px;
+}
+.admin3 {
+  left: 1690px;
+  color: var(--color-orange-300);
+  justify-content: center;
+  width: 230px;
+}
+.b9,
+.person-icon3 {
+  position: absolute;
+  top: 41px;
+  left: 1688px;
+  width: 50px;
+  height: 50px;
+}
+.b9 {
+  top: 1919px;
+  left: 856px;
+  font-size: var(--font-size-29xl);
+  display: none;
+  font-family: var(--font-sarabun);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 59px;
+  height: 52px;
+}
+.add-full-contract-child1 {
+  position: absolute;
+  top: 2143px;
+  left: 0;
+  background-color: var(--color-dimgray);
+  width: 1920px;
+  height: 86px;
+}
+.copyright-by-firefly3 {
+  position: absolute;
+  top: 2166px;
+  left: 1573px;
+  font-family: var(--font-inter);
+  color: var(--color-orange-100);
+}
+.customername,
+.full-contract-code,
+.year-of-birth {
+  position: absolute;
+  top: 319px;
+  left: 549px;
+  background-color: var(--color-gainsboro);
+  width: 1200px;
+  height: 80px;
+}
+.customername,
+.year-of-birth {
+  top: 429px;
+}
+.year-of-birth {
+  top: 539px;
+}
+.customer-address,
+.date-of-contract,
+.deposit,
+.mobile,
+.price2,
+.propertyid,
+.remain,
+.ssn,
+.status {
+  position: absolute;
+  top: 649px;
+  left: 549px;
+  background-color: var(--color-gainsboro);
+  width: 1200px;
+  height: 80px;
+}
+.customer-address,
+.date-of-contract,
+.deposit,
+.mobile,
+.price2,
+.propertyid,
+.remain,
+.status {
+  top: 759px;
+}
+.date-of-contract,
+.deposit,
+.mobile,
+.price2,
+.propertyid,
+.remain,
+.status {
+  top: 869px;
+}
+.date-of-contract,
+.deposit,
+.price2,
+.propertyid,
+.remain,
+.status {
+  top: 979px;
+}
+.date-of-contract,
+.deposit,
+.price2,
+.remain,
+.status {
+  top: 1089px;
+}
+.deposit,
+.price2,
+.remain,
+.status {
+  top: 1199px;
+}
+.deposit,
+.remain,
+.status {
+  top: 1309px;
+}
+.remain,
+.status {
+  top: 1419px;
+}
+.status {
+  top: 1529px;
+}
+.customer-address1,
+.customer-name,
+.full-contract-code1,
+.ssn1,
+.year-of-birth1 {
+  position: absolute;
+  top: 323px;
+  left: 151px;
+  display: flex;
+  align-items: center;
+  width: 344px;
+  height: 43px;
+}
+.customer-address1,
+.customer-name,
+.ssn1,
+.year-of-birth1 {
+  top: 436px;
+  width: 285px;
+}
+.customer-address1,
+.ssn1,
+.year-of-birth1 {
+  top: 549px;
+  width: 244px;
+}
+.customer-address1,
+.ssn1 {
+  top: 662px;
+  width: 159px;
+}
+.customer-address1 {
+  top: 775px;
+  width: 285px;
+}
+.date-of-contract1,
+.deposit1,
+.mobile1,
+.price3,
+.property-id,
+.remain1,
+.status1 {
+  position: absolute;
+  top: 888px;
+  left: 151px;
+  display: flex;
+  align-items: center;
+  width: 163px;
+  height: 43px;
+}
+.date-of-contract1,
+.deposit1,
+.price3,
+.property-id,
+.remain1,
+.status1 {
+  top: 1001px;
+  width: 281px;
+}
+.date-of-contract1,
+.deposit1,
+.price3,
+.remain1,
+.status1 {
+  top: 1114px;
+}
+.deposit1,
+.price3,
+.remain1,
+.status1 {
+  top: 1227px;
+  width: 159px;
+}
+.deposit1,
+.remain1,
+.status1 {
+  top: 1340px;
+  width: 281px;
+}
+.remain1,
+.status1 {
+  top: 1453px;
+  width: 189px;
+}
+.status1 {
+  top: 1566px;
+  width: 171px;
+}
+.submit-button-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-sandybrown);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 405px;
+  height: 140px;
+}
+.add-contract {
+  position: absolute;
+  top: 5px;
+  left: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 376px;
+  height: 135px;
+}
+.full-contract4,
+.submit-button1 {
+  position: absolute;
+  top: 1690px;
+  left: 782px;
+  width: 405px;
+  height: 140px;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+}
+.full-contract4 {
+  top: 198px;
+  left: 743px;
+  font-size: var(--font-size-29xl);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 481px;
+  height: 92px;
+}
+.add-full-contract-child2 {
+  position: absolute;
+  top: 1903px;
+  left: 118px;
+  width: 754px;
+  height: 240px;
+  object-fit: cover;
+}
+.add-full-contract1 {
+  position: relative;
+  background-color: var(--color-orange-200);
+  width: 100%;
+  height: 2229px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-convergence);
+}
+a {
+  background-color: transparent;
+  text-decoration: none;
+  color: black;
+}
